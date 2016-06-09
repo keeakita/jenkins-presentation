@@ -32,3 +32,14 @@ intermediate LaTeX file that gets turned into the eventual PDF.
 - `arch.markdown` - presentation content
 - `template.latex` - the LaTeX template containing document setup and themes
 - `references.bib` - bibliographical information for citations
+
+## License
+
+`template.latex` is adapted from the beamer latex template created by John
+Macfarlane, and is used and redistributed with changes under the GNU GPL 2.
+
+The logos in the `img/` directory are copyright their respective owners and are
+used only to identify referenced products.
+
+All other content is (C) 2016 William Osler and released under a Creative
+Commons Attribution 4.0 License (CC BY 4.0)
